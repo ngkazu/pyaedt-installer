@@ -1,4 +1,4 @@
-# pyaedt_installer
+# pyaedt installer
 
 This repository contains scripts to install PyAEDT using either a Batch file or a PowerShell script. These scripts automate the setup of a Python virtual environment and the installation of the required dependencies.
 
